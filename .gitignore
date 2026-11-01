@@ -22,3 +22,6 @@ bin-release/
 __pycache__/
 build/
 dist/
+
+# 卫生债务批次 2026-11-01
+.pytest_cache/
